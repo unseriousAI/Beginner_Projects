@@ -1,0 +1,9 @@
+asyncio
+hue-api
+pyaudio
+pydub
+python-dotenv
+nltk
+schedule
+SpeechRecognition
+wave
